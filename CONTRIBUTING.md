@@ -7,3 +7,5 @@ MySecond is an open source project and we are always happy to receive contributi
 - Submitting bug reports and feature requests
 - Forking this repository and submitting a pull request
 - Hosting a seismic sensor to expand the network (send us an email at hello@openeew.com)
+
+See also https://github.com/openeew/openeew/blob/master/CONTRIBUTING.md
